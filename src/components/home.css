@@ -1,0 +1,19 @@
+.form {
+    text-align: center;
+    align-content: space-between;
+    margin-top: 40px;
+}
+
+input {
+    margin: 10px;
+    width: 30%;
+    height: 40px;
+}
+
+button{
+    color: red;
+    width: 60px;
+    font-size: 15px;
+    text-align: center;
+
+}
